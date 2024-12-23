@@ -1,5 +1,5 @@
 import the_cooler_json
-with the_cooler_json.bil('{"abc": 12}') as efg:
+with the_cooler_json.reddit('test.json') as efg:
     d = efg.decode()
     d.sowhatsit()
     d.nowamredty()

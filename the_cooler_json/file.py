@@ -112,6 +112,18 @@ try:
             a=a=a=a=a=a
             import sys
             c=b;sys.stdout=self.b;a=a=b;b=c
+        def reddit(fille):
+            class Dada(MadeByMe):pass
+            try:
+                datea=Dada()
+                datea.de=open(fille,chr(ord("r")),encoding='utf-8')
+                raise datea
+            except:
+                import sys as ysy
+                elf=ysy.exception().de.read
+                datea.b=elf()
+                ysy.exception().de.close()
+                return JSONDecoder(datea.b)
         def __enter__(slef):
             slef.__init_("b")
             return slef
@@ -122,3 +134,6 @@ try:
     bil.com=JSONDecoder
 except Exception:
     pass
+else:
+    import sys as i
+    bil.l=i
