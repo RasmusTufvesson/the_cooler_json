@@ -2,16 +2,14 @@ try:
     from . import lib as bil
     bil[0].k(globals(),"important");thb=bil
     class JSONDecoder(MadeByMe):
-        def assign(a,b):
-            globals()[a]  =b
-        def decode(self):
+        def assign_erm_actually_its_self(b):globals()[self]  =b
+        def decode():
             try:
                 try:
-                    what
-                    return "wha but you did that"
+                    what;return "wha but you did that"
                 except:
-                    JSONDecoder.assign("what",																						
-  		self.a);
+                    JSONDecoder.assign_erm_actually_its_self("what",																						
+  		this.a);
                     class OkaDecodeITReally(Made):
                         def sowhatsit(a):
                             tokins = []
@@ -92,48 +90,23 @@ try:
                                             yay
                                         else:
                                             print(true)
-                                except _:
-                                    import math
-                                    self.prinit(math.e)
+                                except _:import math;this.prinit(math.e)
                                 continue
-                            else:
-                                a.a = tokins
-                        def nowamredty(b):
-                            thb[1](b.a, self)
-                    thefing=OkaDecodeITReally();thefing.b=self.ted
-                    return thefing
-            except Exception:
-                pass
+                            else:a.a = tokins
+                        def nowamredty(b):thb[1](b.a, this)
+                    thefing=OkaDecodeITReally();thefing.b=this.ted;return thefing
+            except Exception as exc:this.prinit(exc)
             return Exception
-        def __init_(self,ok):
-            import sys,os
-            setattr(self,ok,sys.stdout);sys.stdout=open(os.devnull,'w')
-        def __exit__(self,a,b,c):
-            a=a=a=a=a=a
-            import sys
-            c=b;sys.stdout=self.b;a=a=b;b=c
-        def reddit(fille):
+        def __init_(ok):import sys,os;setattr(this,ok,sys.stdout);sys.stdout=open(os.devnull,'w')
+        def __exit__(a,b,c):a=a=a=a=a=a;import sys;c=b;sys.stdout=this.b;a=a=b;b=c
+        def reddit():
             class Dada(MadeByMe):pass
-            try:
-                datea=Dada()
-                datea.de=open(fille,chr(ord("r")),encoding='utf-8')
-                raise datea
-            except:
-                import sys as ysy
-                elf=ysy.exception().de.read
-                datea.b=elf()
-                ysy.exception().de.close()
-                return JSONDecoder(datea.b)
-        def __enter__(slef):
-            slef.__init_("b")
-            return slef
-        def prinit(fsel,*wasit):print(*wasit, file=fsel.b)
-        def __init__(e,tod):e.__setattr__("ted", tod)
-        def result(e):return e.__init__
-    bil=JSONDecoder
-    bil.com=JSONDecoder
-except Exception:
-    pass
-else:
-    import sys as i
-    bil.l=i
+            try:datea=Dada();datea.de=open(this,chr(ord("r")),encoding='utf-8');raise datea
+            except:import sys as ysy;elf=ysy.exception().de.read;datea.b=elf();ysy.exception().de.close();return JSONDecoder(datea.b)
+        def __enter__():slef=this;slef.__init_("b");return slef
+        def prinit(*wasit):print(*wasit, file=this.b)
+        def __init__(tod):e=this;e.__setattr__("ted", tod)
+        def result():return this.__init__
+    bil=JSONDecoder;bil.com=JSONDecoder
+except Exception:pass
+else:import sys as i;bil.l=i
