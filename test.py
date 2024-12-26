@@ -3,4 +3,4 @@ with the_cooler_json.reddit('test.json') as efg:
     d = efg.decode()
     d.sowhatsit()
     d.nowamredty()
-print(efg.result())
+print(efg.result(), efg.is_rede())

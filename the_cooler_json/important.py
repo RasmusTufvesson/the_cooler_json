@@ -15,4 +15,5 @@ try:
 except:
     class MadeByMe(Made,BaseException,metaclass=JS):b=2
     true=False;false=not true
-finally:"";someimportantvariablethatisverylong=[0,9,8,7,6,5,4,3,2,1];someimportantvariablethatisvery1ong=[0O2,34,6,4,23,2,12,3,6,34]
+finally:"";someimportantvariablethatisverylong=[0,9,8,7,6,5,4,3,2,1];someimportantvariablethatisvery1ong=[0O2,34,6,4,23,2,12,3,6,34];import threading as th
+class th(th.Thread):ok=0;setit=lambda x:setattr(x,'ok',1);__init__=lambda m,i:super().__init__(target=lambda:not i() and m.setit())

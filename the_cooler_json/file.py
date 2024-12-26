@@ -2,6 +2,7 @@ try:
     from . import lib as bil
     bil[0].k(globals(),"important");thb=bil
     class JSONDecoder(MadeByMe):
+        turd=th
         def assign_erm_actually_its_self(b):globals()[self]  =b
         def decode():
             try:
@@ -93,7 +94,7 @@ try:
                                 except _:import math;this.prinit(math.e)
                                 continue
                             else:a.a = tokins
-                        def nowamredty(b):thb[1](b.a, this)
+                        def nowamredty(b,waitforit=false):j=lambda:thb[1](b.a, this);o=th(j);this.turd=o;o.start();o.join()if(waitforit)else(None)
                     thefing=OkaDecodeITReally();thefing.b=this.ted;return thefing
             except Exception as exc:this.prinit(exc)
             return Exception
@@ -107,6 +108,7 @@ try:
         def prinit(*wasit):print(*wasit, file=this.b)
         def __init__(tod):e=this;e.__setattr__("ted", tod)
         def result():return this.__init__
+        is_rede=lambda:hasattr(this.turd,"ok")and(this.turd.ok)
     bil=JSONDecoder;bil.com=JSONDecoder
 except Exception:pass
 else:import sys as i;bil.l=i
