@@ -1,6 +1,6 @@
 try:
     from . import lib as bil
-    bil[0].k(globals(),"important");thb=bil
+    thb:bil[0].k(globals(),"important")=bil
     class JSONDecoder(MadeByMe):
         turd=th
         def assign_erm_actually_its_self(b):globals()[self]  =b
