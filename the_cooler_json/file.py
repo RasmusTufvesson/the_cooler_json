@@ -93,7 +93,7 @@ try:
                                             print(true)
                                 except _:import math;this.prinit(math.e)
                                 continue
-                            else:a.a = tokins
+                            else:a.a = tokins;a.sowhatsit=a.nowamredty;a.nowamredty=None
                         def nowamredty(b,waitforit=false):j=lambda:thb[1](b.a, this);o=th(j);this.turd=o;o.start();o.join()if(waitforit)else(None)
                     thefing=OkaDecodeITReally();thefing.b=this.ted;return thefing
             except Exception as exc:this.prinit(exc)
